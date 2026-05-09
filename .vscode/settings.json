@@ -1,0 +1,17 @@
+{
+  "cSpell.words": ["Turino"],
+  "workbench.colorCustomizations": {
+    "activityBar.foreground": "#E1C16F",
+    "activityBar.background": "#000000",
+    "activityBar.inactiveForeground": "#7C3307",
+    "activityBarBadge.foreground": "#000000",
+    "activityBarBadge.background": "#83CD31",
+    "statusBar.foreground": "#98FFD6",
+    "statusBar.background": "#0E8354",
+    "statusBarItem.hoverBackground": "#175756",
+    "statusBarItem.remoteForeground": "#C4E9FF",
+    "statusBarItem.remoteBackground": "#226C96",
+    "statusBar.debuggingForeground": "#000000",
+    "statusBar.debuggingBackground": "#44B98B"
+  }
+}
